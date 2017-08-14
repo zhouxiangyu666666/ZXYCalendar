@@ -1,1 +1,2 @@
 # ZXYCalendar
+应用非常简单，创建一个ViewController关联ZFChooseTimeViewController。或者自己在代码中创建一个对象，addsubview到父视图上。
